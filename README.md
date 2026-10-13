@@ -1,7 +1,7 @@
 
 # MACH Mullica River Watershed
 
-Scripts and supporting materials accompanying the manuscript "Storm-Type Influence on Spatial Rainfall–Surge Dependence and Compound Flood Boundary Condition Generation in a Coastal Watershed".
+Scripts and supporting materials accompanying the manuscript [Storm-Type Influence on Spatial Rainfall–Surge Dependence and Compound Flood Boundary Condition Generation in a Coastal Watershed"](https://doi.org/10.5194/egusphere-2026-5872).
 
 ## Contents
 
